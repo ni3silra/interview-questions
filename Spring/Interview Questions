@@ -1,0 +1,18 @@
+•	What is IOC
+•	What is Application Context
+•	What is Bean
+•	What is Bean life cycle?
+•	Explain below Annotations and benefits
+  o	Service
+  o	Controller
+  o	Component
+  o	Repository
+  o	Bean
+  o	Qualifier
+  o	Autowired
+  o	PreDestroy
+  o	PostConstruct
+  o	SpringApplication
+  o	Configuration
+•	What is benefit of application.properties / application.yml
+•	Why SpringBoot as Spring already there?
