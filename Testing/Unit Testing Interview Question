@@ -1,0 +1,12 @@
+
+•	What is Unit Testing
+•	What is First Principle
+•	UT techniques
+  o	Given When then
+  o	Provided Perform Expect
+•	What would be best naming practice for UT
+•	How to test void method
+•	Should we write void methods
+  o	What are anti patterns
+  o	In which case we cannot avoid anti patterns
+•	How to test if method is throwing exception
