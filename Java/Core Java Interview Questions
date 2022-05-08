@@ -1,0 +1,36 @@
+•	What is Platform independence
+•	Difference between Heap and Stack Memory
+•	Are arrays object?
+•	What are methods of Object class and purpose
+•	Contract between hashcode and equals
+•	Difference between static and dynamic arrays and example
+•	What are drawbacks of ArrayList
+•	Difference between ArrayList and LinkedList
+•	Create a data structure which is like DB table
+•	Create an immutable class
+•	Difference between StringBuffer vs StringBuilder vs String
+•	What is StringPool
+•	What is meaning of thread safe?
+•	What are Atomic classes
+•	How thread pool works 
+•	What is demon thread
+•	Can synchronized led to deadlock
+•	How two thread communicate
+•	Can constructor return a value?
+•	What is fail safe concept?
+•	What is difference between abstract class and interface
+•	Define OOPS Concept 
+  o	Polymorphism
+  o	Inheritance 
+  o	Abstraction
+  o	Encapsulation
+•	What is difference between aggregation vs association
+•	Overloading vs overriding
+•	Why default methods come in interface with Java 8
+•	What is Functional Interface
+•	How lambdas are better then anonyms class 
+•	What is difference between intermediate and terminal methods in Stream
+•	Can Stream be reused after one iteration?
+•	Is functional programming benefited Java and if yes then how?
+•	What is record in Java
+•	What is reactive programming
