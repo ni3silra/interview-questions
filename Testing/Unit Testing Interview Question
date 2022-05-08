@@ -10,3 +10,10 @@
   o	What are anti patterns
   o	In which case we cannot avoid anti patterns
 •	How to test if method is throwing exception
+•	What if you have an SLA to complete the task in test method
+•	What is mocking 
+•	Explain Annotations
+  o	Test
+  o	Before / BeforeClass
+  o	After /AfterClass
+  o	Ignore
