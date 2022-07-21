@@ -1,0 +1,12 @@
+Design a Message Stream 
+  + Message has messageId and creation_timestamp and UserID
+  + API needed - getMessageByID, getMessageByUserID, getMessageLaterThenTImeStamp
+  Constraints
+    * application is read intensive.
+    
+Design a Calculater
+  + Operations (+, -, *, /, %, x^y)
+  + it should save history for last 10 operations.
+  + user can delete history
+  Constraints
+    * power should be calculated in logrithmic time complexity.
